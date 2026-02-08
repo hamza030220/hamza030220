@@ -1,7 +1,5 @@
 # 💫 About Me:
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo5bzh1bjc3dDUxeGsya3A4cWM2eTk4cTZid3Z5emc3cWR0OGcwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Coding vibes" width="600"/>
-</p>
+
 🧠 IT engineering student | 🐛 Professional bug creator (and occasionally a bug destroyer).<br>I code in C, C++, Java, JavaFX, Dart (Flutter) and survive the web jungle with HTML, CSS, JavaScript, PHP & SQL, building desktop, mobile, and full-stack apps while arguing daily with databases and microcontrollers.<br>I’m currently learning Java / JavaFX (and relearning patience), looking to collaborate on projects that start with “this will be simple” and end with 47 commits, and looking for help with bugs that disappear when I add a print() but magically return later.<br>Ask me about anything except coding (yes, even life advice), and fun fact: if it works on my machine, I consider it production-ready.
 
 
