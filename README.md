@@ -1,6 +1,22 @@
 # 💫 About Me:
 
-🧠 IT engineering student | 🐛 Professional bug creator (and occasionally a bug destroyer).<br>I code in C, C++, Java, JavaFX, Dart (Flutter) and survive the web jungle with HTML, CSS, JavaScript, PHP & SQL, building desktop, mobile, and full-stack apps while arguing daily with databases and microcontrollers.<br>I’m currently learning Java / JavaFX (and relearning patience), looking to collaborate on projects that start with “this will be simple” and end with 47 commits, and looking for help with bugs that disappear when I add a print() but magically return later.<br>Ask me about anything except coding (yes, even life advice), and fun fact: if it works on my machine, I consider it production-ready.
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2Y2NlaDVwenBnaGdpZmFoNWUwOXFmOXF4bGIxMnl1Ym80NDdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXuh72NAzALwf8ipgA/giphy.gif" width="280" />
+    </td>
+    <td width="60%">
+      🧠 <b>IT engineering student</b> | 🐛 Professional bug creator (and occasionally a bug destroyer).<br><br>
+      I code in <b>C, C++, Java, JavaFX, Dart (Flutter)</b> and survive the web jungle with <b>HTML, CSS, JavaScript, PHP & SQL</b>, building desktop, mobile, and full-stack apps while arguing daily with databases and microcontrollers.<br><br>
+      🌱 Currently learning <b>Java / JavaFX</b> (and relearning patience).<br>
+      👯 Looking to collaborate on projects that start with “this will be simple” and end with 47 commits.<br>
+      🤝 Looking for help with bugs that disappear when I add a <code>print()</code> but magically return later.<br>
+      💬 Ask me about anything <b>except coding</b> (yes, even life advice).<br>
+      ⚡ Fun fact: if it works on my machine, I consider it production-ready.
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🌐 Socials:
