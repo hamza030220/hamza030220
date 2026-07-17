@@ -2,17 +2,32 @@
 
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2Y2NlaDVwenBnaGdpZmFoNWUwOXFmOXF4bGIxMnl1Ym80NDdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXuh72NAzALwf8ipgA/giphy.gif" width="280" />
+    <td width="35%" align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2Y2NlaDVwenBnaGdpZmFoNWUwOXFmOXF4bGIxMnl1Ym80NDdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXuh72NAzALwf8ipgA/giphy.gif" width="220" />
     </td>
-    <td width="60%">
-      🧠 <b>IT engineering student</b> | 🐛 Professional bug creator (and occasionally a bug destroyer).<br><br>
-      I code in <b>C, C++, Java, JavaFX, Dart (Flutter)</b> and survive the web jungle with <b>HTML, CSS, JavaScript, PHP & SQL</b>, building desktop, mobile, and full-stack apps while arguing daily with databases and microcontrollers.<br><br>
-      🌱 Currently learning <b>Java / JavaFX</b> (and relearning patience).<br>
-      👯 Looking to collaborate on projects that start with “this will be simple” and end with 47 commits.<br>
-      🤝 Looking for help with bugs that disappear when I add a <code>print()</code> but magically return later.<br>
-      💬 Ask me about anything <b>except coding</b> (yes, even life advice).<br>
-      ⚡ Fun fact: if it works on my machine, I consider it production-ready.
+    <td width="75%">
+
+🧠 Engineering student trying to figure things out one bug at a time.<br><br>
+
+I speak multiple programming languages (can't list them all, but I'll recognize the syntax when I see it).<br>
+Master of none, student of everything.<br><br>
+
+Currently:<br>
+- 🤖 Exploring Computer Vision, AI, Machine Learning & Neural Networks (still trying to understand the magic)<br>
+- 📖 Fighting documentation (and sometimes winning)<br>
+- 🔥 Discovering what my GPU can do (spoiler: not as much as I hoped)<br><br>
+
+⚡ My software philosophy:<br>
+Screw premature optimization.<br>
+God bless Ctrl + Z.<br>
+If it works, don't touch it.<br><br>
+
+🤝 Open to collaborating with anyone who has a good idea, a reliable internet connection, and enough patience to deal with bugs.<br><br>
+
+💸 Saving for an RTX 5090 so I can finally discover what "GPU limits" actually means.<br><br>
+
+☕ Donations may be converted directly into more VRAM.
+
     </td>
   </tr>
 </table>
