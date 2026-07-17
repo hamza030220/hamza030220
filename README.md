@@ -1,47 +1,43 @@
+
 # 💫 About Me:
 
 <table>
   <tr>
-    <td width="40%" align="center" valign="top">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2Y2NlaDVwenBnaGdpZmFoNWUwOXFmOXF4bGIxMnl1Ym80NDdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXuh72NAzALwf8ipgA/giphy.gif" width="280" />
+    <td width="40%" align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2Y2NlaDVwenBnaGdpZmFoNWUwOXFmOXF4bGIxMnl1Ym80NDdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXuh72NAzALwf8ipgA/giphy.gif" width="280"/>
     </td>
-
-    <td width="60%" valign="top">
-
-<p>
+    <td width="60%">
+      
 🧠 Engineering student trying to figure things out one bug at a time.
-</p>
 
-<p>
-I speak multiple programming languages (can't list them all, but I'll recognize the syntax when I see it).<br>
-Master of none, student of everything.
-</p>
+I speak multiple programming languages (can't list them all, but I'll recognize the syntax when I see it).
 
-<p>
-<b>Currently:</b><br>
-🤖 Exploring Computer Vision, AI, Machine Learning & Neural Networks (still trying to understand the magic)<br>
-📖 Fighting documentation (and sometimes winning)<br>
+**Master of none, student of everything.**
+
+<br>
+
+**Currently:**
+
+🤖 Exploring Computer Vision, AI, Machine Learning & Neural Networks  
+📖 Fighting documentation (and sometimes winning)  
 🔥 Discovering what my GPU can do (spoiler: not as much as I hoped)
-</p>
 
-<p>
-⚡ <b>My software philosophy:</b><br>
-Screw premature optimization.<br>
-God bless Ctrl + Z.<br>
-If it works, don't touch it.
-</p>
+<br>
 
-<p>
+⚡ **My software philosophy:**  
+*Screw premature optimization. God bless Ctrl + Z. If it works, don't touch it.*
+
+<br>
+
 🤝 Open to collaborating with anyone who has a good idea, a reliable internet connection, and enough patience to deal with bugs.
-</p>
 
-<p>
+<br>
+
 💸 Saving for an RTX 5090 so I can finally discover what "GPU limits" actually means.
-</p>
 
-<p>
+<br>
+
 ☕ Donations may be converted directly into more VRAM.
-</p>
 
     </td>
   </tr>
