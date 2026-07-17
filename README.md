@@ -2,37 +2,50 @@
 
 <table>
   <tr>
-    <td width="35%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2Y2NlaDVwenBnaGdpZmFoNWUwOXFmOXF4bGIxMnl1Ym80NDdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXuh72NAzALwf8ipgA/giphy.gif" width="220" />
+    <td width="40%" align="center" valign="top">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2Y2NlaDVwenBnaGdpZmFoNWUwOXFmOXF4bGIxMnl1Ym80NDdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXuh72NAzALwf8ipgA/giphy.gif" width="280" />
     </td>
-    <td width="75%">
 
-🧠 Engineering student trying to figure things out one bug at a time.<br><br>
+    <td width="60%" valign="top">
 
+<p>
+🧠 Engineering student trying to figure things out one bug at a time.
+</p>
+
+<p>
 I speak multiple programming languages (can't list them all, but I'll recognize the syntax when I see it).<br>
-Master of none, student of everything.<br><br>
+Master of none, student of everything.
+</p>
 
-Currently:<br>
-- 🤖 Exploring Computer Vision, AI, Machine Learning & Neural Networks (still trying to understand the magic)<br>
-- 📖 Fighting documentation (and sometimes winning)<br>
-- 🔥 Discovering what my GPU can do (spoiler: not as much as I hoped)<br><br>
+<p>
+<b>Currently:</b><br>
+🤖 Exploring Computer Vision, AI, Machine Learning & Neural Networks (still trying to understand the magic)<br>
+📖 Fighting documentation (and sometimes winning)<br>
+🔥 Discovering what my GPU can do (spoiler: not as much as I hoped)
+</p>
 
-⚡ My software philosophy:<br>
+<p>
+⚡ <b>My software philosophy:</b><br>
 Screw premature optimization.<br>
 God bless Ctrl + Z.<br>
-If it works, don't touch it.<br><br>
+If it works, don't touch it.
+</p>
 
-🤝 Open to collaborating with anyone who has a good idea, a reliable internet connection, and enough patience to deal with bugs.<br><br>
+<p>
+🤝 Open to collaborating with anyone who has a good idea, a reliable internet connection, and enough patience to deal with bugs.
+</p>
 
-💸 Saving for an RTX 5090 so I can finally discover what "GPU limits" actually means.<br><br>
+<p>
+💸 Saving for an RTX 5090 so I can finally discover what "GPU limits" actually means.
+</p>
 
+<p>
 ☕ Donations may be converted directly into more VRAM.
+</p>
 
     </td>
   </tr>
 </table>
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__slimanihamza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamza.slimani@esprit.tn) 
