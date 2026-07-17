@@ -39,7 +39,7 @@ I speak multiple programming languages (can't list them all, but I'll recognize 
 
 ☕ Donations may be converted directly into more VRAM.
 
-    </td>
+  </td>
   </tr>
 </table>
 
